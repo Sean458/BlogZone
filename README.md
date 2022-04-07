@@ -1,3 +1,3 @@
 # Blog Zone
 
-A simple blogging website
+A simple blog website.
